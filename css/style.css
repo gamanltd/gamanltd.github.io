@@ -54,7 +54,7 @@
 body {
   margin: 0;
   font-family: var(--bs-font-sans-serif);
-  font-size: 1rem;
+  font-size: 3rem;
   font-weight: 400;
   line-height: 1.5;
   color: #fff;
@@ -8655,7 +8655,7 @@ body {
 }
 
 p, .paragraph {
-  font-size: 16px;
+  font-size: 18px;
 }
 
 .lead {
@@ -8990,7 +8990,7 @@ a.text-black:hover {
   font-size: 13px;
 }
 .content p {
-  margin-bottom: 16px;
+  margin-bottom: 18px;
 }
 .content h1, .content .h1,
 .content h2,
